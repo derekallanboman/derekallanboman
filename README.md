@@ -1,16 +1,23 @@
-## Hi there 👋
+# Derek Allan Boman
 
-<!--
-**derekallanboman/derekallanboman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Developer | Inventor
 
-Here are some ideas to get you started:
+Derek Allan Boman is focused on building AI-assisted communication systems, outbound call intelligence tools, and software designed to improve real-time human interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+
+- CallSignal – AI Call Intelligence Demo
+- Multi-channel outbound communication workflows
+- Human detection and call prioritization systems
+
+## Focus Areas
+
+- AI-assisted communication
+- Web development (JavaScript, Node.js, Python)
+- Call center efficiency systems
+- Patent-backed communication concepts
+
+## Links
+
+LinkedIn: https://www.linkedin.com/in/derekallanboman  
+Website: https://sites.google.com/view/derek-allan-boman
