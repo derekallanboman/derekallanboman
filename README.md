@@ -17,7 +17,15 @@ Derek Allan Boman is focused on building AI-assisted communication systems, outb
 - Call center efficiency systems
 - Patent-backed communication concepts
 
+
 ## Links
 
 LinkedIn: https://www.linkedin.com/in/derekallanboman  
+
 Website: https://sites.google.com/view/derek-allan-boman
+
+Medium:
+https://medium.com/@derekboman3
+
+Medium Article:
+https://medium.com/@derekboman3/derek-allan-boman-ai-systems-developer-inventor-and-communication-system-patents-9b608e67c005
