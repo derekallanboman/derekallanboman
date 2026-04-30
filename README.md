@@ -18,7 +18,7 @@ Derek Allan Boman’s work includes communication system patents related to outb
 ## Focus Areas
 
 - AI-Assisted Communication  
-- Web development (JavaScript, Node.js, Python)  
+- Web Development (JavaScript, Node.js, Python)
 - Call center efficiency systems  
 - Patent-backed communication concepts  
 
