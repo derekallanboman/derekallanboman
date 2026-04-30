@@ -26,6 +26,9 @@ Derek Allan Boman’s work includes communication system patents related to outb
 
 ## Links
 
+**CallSignal Project Repository**  
+https://github.com/derekallanboman/callsignal-ai-call-intelligence
+
 **LinkedIn:**  
 https://www.linkedin.com/in/derekallanboman  
 
@@ -37,3 +40,4 @@ https://medium.com/@derekboman3
 
 **Medium Article:**  
 https://medium.com/@derekboman3/derek-allan-boman-ai-systems-developer-inventor-and-communication-system-patents-9b608e67c005
+
