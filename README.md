@@ -3,6 +3,7 @@
 **AI Systems Developer | Inventor**
 
 Derek Allan Boman is focused on building AI-assisted communication systems, outbound call intelligence tools, and software designed to improve real-time human interaction.
+Derek Allan Boman’s work includes communication system patents related to outbound calling, channel management, and workflow optimization.
 
 ---
 
@@ -16,7 +17,7 @@ Derek Allan Boman is focused on building AI-assisted communication systems, outb
 
 ## Focus Areas
 
-- AI-assisted communication  
+- AI-Assisted Communication  
 - Web development (JavaScript, Node.js, Python)  
 - Call center efficiency systems  
 - Patent-backed communication concepts  
