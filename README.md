@@ -41,6 +41,9 @@ https://about.me/derekallanboman
 **Medium Profile**  
 https://medium.com/@derekboman3
 
+**ORCID**  
+https://orcid.org/0009-0005-9472-6156
+
 **Medium Article – Communication System Patents**  
 https://medium.com/@derekboman3/derek-allan-boman-ai-systems-developer-inventor-and-communication-system-patents-9b608e67c005
 
