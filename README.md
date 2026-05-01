@@ -47,6 +47,9 @@ https://orcid.org/0009-0005-9472-6156
 **Medium Article – Communication System Patents**  
 https://medium.com/@derekboman3/derek-allan-boman-ai-systems-developer-inventor-and-communication-system-patents-9b608e67c005
 
+**Dev.to Article – CallSignal AI Call Intelligence** 
+https://dev.to/derekallanboman/derek-allan-boman-building-callsignal-as-an-ai-call-intelligence-prototype-2818
+
 **Medium Article – CallSignal and AI Call Intelligence**  
 https://medium.com/@derekboman3/derek-allan-boman-callsignal-and-ai-call-intelligence-systems-52425f0a49e2
 
