@@ -35,11 +35,17 @@ https://www.linkedin.com/in/derekallanboman
 **Website**  
 https://sites.google.com/view/derek-allan-boman
 
+**About.me**  
+https://about.me/derekallanboman
+
 **Medium Profile**  
 https://medium.com/@derekboman3
 
 **Medium Article – Communication System Patents**  
 https://medium.com/@derekboman3/derek-allan-boman-ai-systems-developer-inventor-and-communication-system-patents-9b608e67c005
+
+**Medium Article – CallSignal and AI Call Intelligence**  
+https://medium.com/@derekboman3/derek-allan-boman-callsignal-and-ai-call-intelligence-systems-52425f0a49e2
 
 **Medium Article – CallSignal and AI Call Intelligence**  
 https://medium.com/@derekboman3/derek-allan-boman-callsignal-and-ai-call-intelligence-systems-52425f0a49e2
