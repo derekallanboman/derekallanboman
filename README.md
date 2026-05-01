@@ -9,6 +9,7 @@ Derek Allan Boman’s work includes communication system patents related to outb
 
 ## Current Work
 
+- [CallSignal – AI Call Intelligence Prototype](https://github.com/derekallanboman/callsignal-ai-call-intelligence)
 - CallSignal – AI Call Intelligence Demo  
 - Multi-channel outbound communication workflows  
 - Human detection and call prioritization systems  
