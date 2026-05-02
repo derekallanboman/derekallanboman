@@ -55,3 +55,6 @@ https://medium.com/@derekboman3/derek-allan-boman-callsignal-and-ai-call-intelli
 
 **Dev.to Article – CallSignal AI Call Intelligence** 
 https://dev.to/derekallanboman/derek-allan-boman-building-callsignal-as-an-ai-call-intelligence-prototype-2818
+
+**Substack Article – AI Call Intelligence**  
+https://derekallanboman.substack.com/p/derek-allan-boman-ai-call-intelligence
