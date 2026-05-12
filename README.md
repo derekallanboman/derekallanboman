@@ -27,7 +27,7 @@ Derek Allan Boman’s work includes communication system patents related to outb
 ## Links
 
 **ChannelRoute AI Project Repository**  
-https://github.com/derekallanboman/channelrouteai-call-intelligence
+https://github.com/derekallanboman/channelroute-ai-call-intelligence
 
 **LinkedIn**  
 https://www.linkedin.com/in/derekallanboman
