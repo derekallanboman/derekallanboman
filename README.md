@@ -61,3 +61,9 @@ https://derekallanboman.substack.com/p/derek-allan-boman-ai-call-intelligence
 
 **Carrd**  
 https://derekallanboman.carrd.co
+
+
+## Patent Portfolio
+
+**Derek Allan Boman – Patent Portfolio**  
+https://www.patentworth.ai/portfolio/derek-allan-boman
