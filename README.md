@@ -62,6 +62,12 @@ https://derekallanboman.substack.com/p/derek-allan-boman-ai-call-intelligence
 **Carrd**  
 https://derekallanboman.carrd.co
 
+**Pinterest – Derek Allan Boman Visual Portfolio**
+https://www.pinterest.com/derekboman3/
+
+**YouTube Video – Derek Allan Boman ChannelRoute AI Overview**
+https://youtube.com/watch?v=cMUC0_TMH9Y&si=6zkYCqgnkXN9jVlj
+
 
 ## Patent Portfolio
 
