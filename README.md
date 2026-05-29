@@ -55,10 +55,10 @@ https://medium.com/@derekboman3
 **Wellfound – Derek Allan Boman**  
 https://wellfound.com/derek-allan-boman
 
-
+**Crunchbase – ChannelRoute AI**  
+https://www.crunchbase.com/organization/channelroute-ai
 
 **Replit Public Overview**
-
 https://channel-route-ai-public-overview.replit.app/
 
 **ORCID**  
