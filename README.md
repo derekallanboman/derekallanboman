@@ -52,6 +52,10 @@ https://about.me/derekallanboman
 **Medium Profile**  
 https://medium.com/@derekboman3
 
+**Replit Public Overview**
+
+https://channel-route-ai-public-overview.replit.app/
+
 **ORCID**  
 https://orcid.org/0009-0005-9472-6156
 
