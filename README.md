@@ -52,6 +52,11 @@ https://about.me/derekallanboman
 **Medium Profile**  
 https://medium.com/@derekboman3
 
+**Wellfound – Derek Allan Boman**  
+https://wellfound.com/derek-allan-boman
+
+
+
 **Replit Public Overview**
 
 https://channel-route-ai-public-overview.replit.app/
