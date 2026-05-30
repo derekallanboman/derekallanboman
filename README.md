@@ -55,6 +55,12 @@ https://medium.com/@derekboman3
 **Wellfound – Derek Allan Boman**  
 https://wellfound.com/derek-allan-boman
 
+**F6S – ChannelRoute AI**
+https://www.f6s.com/channelroute-ai
+
+**F6S – Derek Allan Boman**
+https://www.f6s.com/member/derekallanboman
+
 **Crunchbase – ChannelRoute AI**  
 https://www.crunchbase.com/organization/channelroute-ai
 
