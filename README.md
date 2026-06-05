@@ -6,6 +6,14 @@ Derek Allan Boman is focused on building AI-assisted communication systems, outb
 
 Derek Allan Boman’s work includes communication system patents related to outbound calling, channel management, softphone repositories, and workflow optimization.
 
+## Technical Report
+
+**Derek Allan Boman, _ChannelRoute AI and Patent-Based Call Intelligence Systems: A Technical Overview_**
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.20549759
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549759.svg)](https://doi.org/10.5281/zenodo.20549759)
+
 ---
 
 ## Current Work
