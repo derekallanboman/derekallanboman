@@ -84,6 +84,10 @@ https://dev.to/derekallanboman/derek-allan-boman-building-callsignal-as-an-ai-ca
 **Substack Article – AI Call Intelligence**  
 https://derekallanboman.substack.com/p/derek-allan-boman-ai-call-intelligence
 
+**Derek Allan Boman – AI Call Intelligence, Communication Systems, and ChannelRoute AI**
+
+https://derekallanboman.substack.com/p/derek-allan-boman-ai-call-intelligence
+
 **Carrd Backup URL**  
 https://derekallanboman.carrd.co
 
