@@ -103,6 +103,10 @@ https://medium.com/@derekboman3/derek-allan-boman-ai-systems-developer-inventor-
 **Medium Article – ChannelRoute AI and AI Call Intelligence**  
 https://medium.com/@derekboman3/derek-allan-boman-callsignal-and-ai-call-intelligence-systems-52425f0a49e2
 
+**Derek Allan Boman – Building ChannelRoute AI as an AI Call Intelligence Prototype**
+
+https://derekallanboman.hashnode.dev/derek-allan-boman-building-channelroute-ai-as-an-ai-call-intelligence-prototype
+
 ---
 
 ## Patent Portfolio
