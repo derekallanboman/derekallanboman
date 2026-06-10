@@ -94,6 +94,9 @@ https://derekallanboman.carrd.co
 **Pinterest – Derek Allan Boman Visual Portfolio**  
 https://www.pinterest.com/derekboman3/
 
+**Reddit - Derek Allan Boman**
+https://www.reddit.com/user/Horror-Variation2064/
+
 **YouTube Video – Derek Allan Boman ChannelRoute AI Overview**  
 https://youtube.com/watch?v=cMUC0_TMH9Y&si=6zkYCqgnkXN9jVlj
 
