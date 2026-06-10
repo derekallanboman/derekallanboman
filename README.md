@@ -100,6 +100,12 @@ https://www.behance.net/gallery/250853837/ChannelRoute-AI-AI-Call-Intelligence
 **Behance – Derek Allan Boman Patent Portfolio**
 https://www.behance.net/gallery/250854239/Derek-Allan-Boman-Patent-Portfolio
 
+**Behance – Derek Allan Boman: AI Systems Developer and Inventor**
+https://www.behance.net/gallery/250854385/Derek-Allan-Boman-AI-Systems-Developer-and-Inventor
+
+**Behance – ChannelRoute AI Time-to-Connect Snapshot**
+https://www.behance.net/gallery/250854531/ChannelRoute-AI-Time-to-Connect-Snapshot
+
 **Reddit - Derek Allan Boman**
 https://www.reddit.com/user/Horror-Variation2064/
 
