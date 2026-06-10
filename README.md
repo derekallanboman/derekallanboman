@@ -97,6 +97,9 @@ https://www.pinterest.com/derekboman3/
 **Behance – ChannelRoute AI: AI Call Intelligence**
 https://www.behance.net/gallery/250853837/ChannelRoute-AI-AI-Call-Intelligence
 
+**Behance – Derek Allan Boman Patent Portfolio**
+https://www.behance.net/gallery/250854239/Derek-Allan-Boman-Patent-Portfolio
+
 **Reddit - Derek Allan Boman**
 https://www.reddit.com/user/Horror-Variation2064/
 
