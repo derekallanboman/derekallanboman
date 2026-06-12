@@ -121,6 +121,13 @@ https://www.reddit.com/user/Horror-Variation2064/
 **YouTube Video – Derek Allan Boman ChannelRoute AI Overview**  
 https://youtube.com/watch?v=cMUC0_TMH9Y&si=6zkYCqgnkXN9jVlj
 
+Recent Writing and Project Updates
+
+* Derek Allan Boman and ChannelRoute AI
+* Derek Allan Boman: AI Communication Systems and Software Development
+* ChannelRoute AI Development Update on LinkedIn
+* Derek Allan Boman Professional Update on LinkedIn
+* Derek Allan Boman on Bitbucket
 ---
 
 ## Articles
