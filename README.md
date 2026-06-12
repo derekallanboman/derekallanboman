@@ -123,11 +123,22 @@ https://youtube.com/watch?v=cMUC0_TMH9Y&si=6zkYCqgnkXN9jVlj
 
 Recent Writing and Project Updates
 
-* Derek Allan Boman and ChannelRoute AI
-* Derek Allan Boman: AI Communication Systems and Software Development
-* ChannelRoute AI Development Update on LinkedIn
-* Derek Allan Boman Professional Update on LinkedIn
-* Derek Allan Boman on Bitbucket
+## Recent Writing and Project Updates
+
+Derek Allan Boman and ChannelRoute AI
+https://medium.com/@derekboman3/derek-allan-boman-and-channelroute-ai-d2b001296176
+
+Derek Allan Boman: AI Communication Systems and Software Development
+https://medium.com/@derekboman3/derek-allan-boman-ai-communication-systems-and-software-development-652755a43bf9
+
+ChannelRoute AI Development Update on LinkedIn
+https://www.linkedin.com/posts/derekallanboman_derek-allan-boman-is-developing-channelroute-activity-7470951903678541824-7bL4
+
+Derek Allan Boman Professional Update on LinkedIn
+https://www.linkedin.com/posts/derekallanboman_derek-allan-boman-public-professional-activity-7470951559963549697-Su9j
+
+Derek Allan Boman on Bitbucket
+https://bitbucket.org/derekallanboman/derekallanboman/
 ---
 
 ## Articles
