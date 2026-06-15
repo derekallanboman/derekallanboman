@@ -145,6 +145,16 @@ https://www.linkedin.com/posts/derekallanboman_derek-allan-boman-public-professi
 
 Derek Allan Boman on Bitbucket
 https://bitbucket.org/derekallanboman/derekallanboman/
+
+**OSF – ChannelRoute AI Technical Report**  
+https://osf.io/md87c/overview
+
+**Figshare – ChannelRoute AI Technical Report**  
+https://doi.org/10.6084/m9.figshare.32674923
+
+**Internet Archive – ChannelRoute AI Technical Report**  
+https://archive.org/details/derek-allan-boman-channel-route-ai-technical-report
+
 ---
 
 ## Articles
