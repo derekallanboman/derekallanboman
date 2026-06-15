@@ -127,6 +127,19 @@ https://independent.academia.edu/BomanDerek
 Speaker Deck – ChannelRoute AI and Patent-Based Call Intelligence
 https://speakerdeck.com/derekallanboman/derek-allan-boman-channelroute-ai-and-patent-based-call-intelligence
 
+Derek Allan Boman on Bitbucket
+https://bitbucket.org/derekallanboman/derekallanboman/
+
+**OSF – ChannelRoute AI Technical Report**  
+https://osf.io/md87c/overview
+
+**Figshare – ChannelRoute AI Technical Report**  
+https://doi.org/10.6084/m9.figshare.32674923
+
+**Internet Archive – ChannelRoute AI Technical Report**  
+https://archive.org/details/derek-allan-boman-channel-route-ai-technical-report
+
+
 Recent Writing and Project Updates
 
 ## Recent Writing and Project Updates
@@ -143,17 +156,7 @@ https://www.linkedin.com/posts/derekallanboman_derek-allan-boman-is-developing-c
 Derek Allan Boman Professional Update on LinkedIn
 https://www.linkedin.com/posts/derekallanboman_derek-allan-boman-public-professional-activity-7470951559963549697-Su9j
 
-Derek Allan Boman on Bitbucket
-https://bitbucket.org/derekallanboman/derekallanboman/
 
-**OSF – ChannelRoute AI Technical Report**  
-https://osf.io/md87c/overview
-
-**Figshare – ChannelRoute AI Technical Report**  
-https://doi.org/10.6084/m9.figshare.32674923
-
-**Internet Archive – ChannelRoute AI Technical Report**  
-https://archive.org/details/derek-allan-boman-channel-route-ai-technical-report
 
 ---
 
