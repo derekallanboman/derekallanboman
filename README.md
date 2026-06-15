@@ -121,6 +121,12 @@ https://www.reddit.com/user/Horror-Variation2064/
 **YouTube Video – Derek Allan Boman ChannelRoute AI Overview**  
 https://youtube.com/watch?v=cMUC0_TMH9Y&si=6zkYCqgnkXN9jVlj
 
+Academia.edu – Derek Allan Boman Research Profile
+https://independent.academia.edu/BomanDerek
+
+Speaker Deck – ChannelRoute AI and Patent-Based Call Intelligence
+https://speakerdeck.com/derekallanboman/derek-allan-boman-channelroute-ai-and-patent-based-call-intelligence
+
 Recent Writing and Project Updates
 
 ## Recent Writing and Project Updates
