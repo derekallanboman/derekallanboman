@@ -159,7 +159,15 @@ https://www.linkedin.com/posts/derekallanboman_derek-allan-boman-is-developing-c
 Derek Allan Boman Professional Update on LinkedIn
 https://www.linkedin.com/posts/derekallanboman_derek-allan-boman-public-professional-activity-7470951559963549697-Su9j
 
+---
 
+## Writing & Inventor Commentary
+
+The Independent Inventor in the AI Era
+https://medium.com/@derekboman3/the-independent-inventor-in-the-ai-era-0d6325748e16
+
+Inventor Journal (Substack)
+https://substack.com/profile/503414631-derek-allan-boman
 
 ---
 
