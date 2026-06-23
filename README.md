@@ -130,6 +130,9 @@ https://speakerdeck.com/derekallanboman/derek-allan-boman-channelroute-ai-and-pa
 Derek Allan Boman on Bitbucket
 https://bitbucket.org/derekallanboman/derekallanboman/
 
+Peerlist
+https://peerlist.io/derekallanboman
+
 **OSF – ChannelRoute AI Technical Report**  
 https://osf.io/md87c/overview
 
