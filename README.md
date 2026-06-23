@@ -81,11 +81,8 @@ https://orcid.org/0009-0005-9472-6156
 **Dev.to Article – ChannelRoute AI Call Intelligence**  
 https://dev.to/derekallanboman/derek-allan-boman-building-callsignal-as-an-ai-call-intelligence-prototype-2818
 
-**Substack Article – AI Call Intelligence**  
-https://derekallanboman.substack.com/p/derek-allan-boman-ai-call-intelligence
 
 **Derek Allan Boman – AI Call Intelligence, Communication Systems, and ChannelRoute AI**
-
 https://derekallanboman.substack.com/p/derek-allan-boman-ai-call-intelligence
 
 **Carrd Backup URL**  
