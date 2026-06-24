@@ -33,6 +33,9 @@ Zenodo DOI: https://doi.org/10.5281/zenodo.20549759
 - Inventor Journal on Substack  
   https://substack.com/profile/503414631-derek-allan-boman
 
+- Introducing ChannelRoute AI
+https://medium.com/@derekboman3/introducing-channelroute-ai-fc352f224661
+
 ---
 
 ## Focus Areas
