@@ -43,6 +43,13 @@ https://derekallanboman.com
 
 ---
 
+## Company Website
+
+**ChannelRoute AI**
+https://channelroute.ai
+
+---
+
 ## Links
 
 **ChannelRoute AI Project Repository**  
