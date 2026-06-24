@@ -25,6 +25,16 @@ Zenodo DOI: https://doi.org/10.5281/zenodo.20549759
 
 ---
 
+## Writing & Inventor Commentary
+
+- The Independent Inventor in the AI Era  
+  https://medium.com/@derekboman3/the-independent-inventor-in-the-ai-era-0d6325748e16
+
+- Inventor Journal on Substack  
+  https://substack.com/profile/503414631-derek-allan-boman
+
+---
+
 ## Focus Areas
 
 - AI-Assisted Communication
