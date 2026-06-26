@@ -188,6 +188,13 @@ https://substack.com/profile/503414631-derek-allan-boman
 
 ---
 
+## Documentation
+
+ChannelRoute AI Public Documentation  
+https://channelroute-ai.gitbook.io/channelroute-ai-docs
+
+---
+
 ## Articles
 
 **Medium Article – Communication System Patents**  
