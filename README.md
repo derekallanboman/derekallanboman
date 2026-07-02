@@ -178,6 +178,26 @@ https://www.linkedin.com/posts/derekallanboman_derek-allan-boman-public-professi
 
 ---
 
+## Recent Work / Public Assets
+
+Medium – Stop Building Better Robots
+https://medium.com/@derekboman3/stop-building-better-robots-dd5a64a6afa4
+
+Medium – Sales Doesn’t Have an AI Problem. It Has a Friction Problem.
+https://medium.com/@derekboman3/sales-doesnt-have-an-ai-problem-it-has-a-friction-problem-f1d7695a9709
+
+Bluesky – Derek Allan Boman
+https://bsky.app/profile/derekallanboman.bsky.social
+
+Are.na – Sales Workflow Friction
+https://www.are.na/derek-boman-heepzbdnczg/sales-workflow-friction
+
+Read the Docs – ChannelRoute AI Documentation
+https://channelroute-ai-call-intelligence.readthedocs.io/en/latest/
+
+1.Hosting – Russian-language article on CallSignal and AI call analysis
+https://1.hosting/web-development-cms/6033-derek-allan-boman-sozdanie-callsignal-prototip-ai-analiza-zvonkov/
+
 ## Writing & Inventor Commentary
 
 The Independent Inventor in the AI Era
