@@ -63,6 +63,13 @@ https://channelroute.ai
 
 ---
 
+## Public Research & Media Archive
+
+**Derek Allan Boman Public Research & Media Archive**  
+https://www.derekallanboman.org
+
+---
+
 ## Links
 
 **ChannelRoute AI Project Repository**  
