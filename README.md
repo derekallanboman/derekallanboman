@@ -133,12 +133,16 @@ https://www.behance.net/gallery/250854385/Derek-Allan-Boman-AI-Systems-Developer
 **Behance – ChannelRoute AI Time-to-Connect Snapshot**
 https://www.behance.net/gallery/250854531/ChannelRoute-AI-Time-to-Connect-Snapshot
 
-**Flickr – Derek Allan Boman**
-https://www.flickr.com/photos/204648474@N05/
+
 
 ## Media Archive
 
-Flickr Media Archive: https://www.flickr.com/photos/derekallanboman/
+**Flickr Media Archive**
+https://www.flickr.com/photos/derekallanboman/
+
+**Flickr – Derek Allan Boman**
+https://www.flickr.com/photos/204648474@N05/
+
 **Gravatar – Derek Allan Boman**
 https://gravatar.com/derekallanboman
 
