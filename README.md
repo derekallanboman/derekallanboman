@@ -234,6 +234,14 @@ https://derekallanboman.hashnode.dev/derek-allan-boman-building-channelroute-ai-
 **Dev.to – ChannelRoute AI Call Intelligence Prototype**  
 https://dev.to/derekallanboman/derek-allan-boman-building-callsignal-as-an-ai-call-intelligence-prototype-2818
 
+**Journo Portfolio – Derek Allan Boman**  
+https://derekboman.journoportfolio.com/
+
+**Journo Portfolio – Selected Articles**  
+https://derekboman.journoportfolio.com/articles/
+
+**Journo Portfolio – Blog**  
+https://derekboman.journoportfolio.com/blog/
 ---
 
 ## Social and Media References
