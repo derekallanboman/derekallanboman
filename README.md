@@ -242,6 +242,7 @@ https://derekboman.journoportfolio.com/articles/
 
 **Journo Portfolio – Blog**  
 https://derekboman.journoportfolio.com/blog/
+
 ---
 
 ## Social and Media References
