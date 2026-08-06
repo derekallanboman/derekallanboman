@@ -72,6 +72,12 @@ https://channelroute-ai.gitbook.io/channelroute-ai-docs/
 **ChannelRoute AI Read the Docs**  
 https://channelroute-ai-call-intelligence.readthedocs.io/en/latest/
 
+**API Documentation:** 
+https://derekallanboman.github.io/channelroute-ai-call-intelligence/api-documentation/
+
+**Zapier MCP Listing:** 
+https://zapier.com/mcp/channelroute-ai
+
 ---
 
 ## Professional Profiles
