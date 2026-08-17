@@ -32,6 +32,19 @@ https://channelroute.ai
 
 ---
 
+## Selected Open Source Contributions
+
+### BrokerOS — TypeScript / Expo Router / React Native
+
+- [Merged PR #141 — Add employee detail header titles](https://github.com/sumamakhan761/BrokerOS/pull/141)  
+  Added missing employee detail route metadata for Pre-Sales Manager, Sales Manager, and Channel Partner screens.
+
+- [Merged PR #148 — Add inventory detail header titles](https://github.com/sumamakhan761/BrokerOS/pull/148)  
+  Added missing inventory detail route metadata across six inventory roles so nested pages display clean Project Details headers.
+
+  ---
+
+
 ## Technical Report
 
 **Derek Allan Boman, _ChannelRoute AI and Patent-Based Call Intelligence Systems: A Technical Overview_**
