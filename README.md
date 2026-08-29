@@ -34,6 +34,11 @@ https://channelroute.ai
 
 ## Selected Open Source Contributions
 
+### VoiceGateway — Python / pytest
+
+- [Merged PR #175 — Add `parse_rate_limit` unit alias test coverage](https://github.com/mahimailabs/voicegateway/pull/175)  
+  Added parameterized pytest coverage for supported rate-limit unit aliases, including case-insensitive and whitespace-tolerant inputs. The maintainer merged the contribution and closed the assigned issue as completed.
+
 ### BrokerOS — TypeScript / Expo Router / React Native
 
 - [Merged PR #141 — Add employee detail header titles](https://github.com/sumamakhan761/BrokerOS/pull/141)  
@@ -41,6 +46,7 @@ https://channelroute.ai
 
 - [Merged PR #148 — Add inventory detail header titles](https://github.com/sumamakhan761/BrokerOS/pull/148)  
   Added missing inventory detail route metadata across six inventory roles so nested pages display clean Project Details headers.
+
 
   ---
 
